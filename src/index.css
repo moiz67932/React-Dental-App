@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Karla;
+    src: url("../Karla/Karla-VariableFont_wght.ttf") format("opentype");
+  }
+@font-face {
+    font-family: Helvetica;
+    src: url("../Helvetica-Font/Helvetica.ttf") format("opentype");
+  }
+
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
